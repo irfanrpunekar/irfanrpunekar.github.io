@@ -4,9 +4,9 @@ layout: default
 
 # Education
 
-## **Rochester Institute of Technology**
+### **Rochester Institute of Technology**
 
-### BS/MS Computer Engineering
+#### BS/MS Computer Engineering
 
 _magna cum laude_  
 December 2021 - Rochester, NY  
@@ -15,9 +15,7 @@ Kate Gleason College of Engineering
 # Highlights
 
 * Won the [New York State School Boards Association Champions for Change Award](https://www.rit.edu/news/engineering-students-faculty-recognized-as-champions-change)
-
 * Published graduate thesis entitled “[Measuring Shadows: FPGA-based image sensor control systems for next-generation NASA missions](https://repository.rit.edu/theses/11038/)”
-
 * Currently working in the Boston area at the MITRE corporation as an Embedded Systems Engineer
 
 # Skills
